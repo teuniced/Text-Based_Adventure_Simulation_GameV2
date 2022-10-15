@@ -1,5 +1,5 @@
 # Text-Based_Adventure_Simulation_GameV2
-v2.0 of mid-term project(choices)
+v2.0 (choices)
 
 (CHOICES!) V2.0
 STORY
